@@ -6,14 +6,14 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #dd0808;
+  background-color: #0aa9c160;
   color: #333;
   padding: 2rem;
 }
 
 header {
-  background-color: #1a1a2e;
-  color: white;
+  background-color: #ffd500;
+  color: rgb(43, 0, 255);
   padding: 2rem;
   border-radius: 8px;
   margin-bottom: 1.5rem;
